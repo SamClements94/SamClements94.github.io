@@ -1,0 +1,64 @@
+.navbar-brand {
+    padding: 10px;
+    background: #c898e9;
+    font-family: arial;
+    font-weight: bold;
+  }
+
+  .navbar-brand href{
+    color: white;
+  }
+
+  .left-image{
+    width: 450px;
+    float: left;
+    margin-right: 10px;
+}
+
+h3{
+    font-family: arial;
+    font-weight: bold;
+    color: #c898e9;
+}
+
+.col-md-6{
+    background-color: white;
+    text-align: center;
+}
+
+.col-md-4{
+    background-color: white;
+    text-align: center;
+}
+
+.comparison{
+    width: 600px;
+}
+
+.comparison:hover{
+    border-color: #c898e9;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.col{
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    color: #c898e9;
+    font-size: 20pt;
+}
+
+.navbar{
+    background-color: lightgray;
+}
+
+.img-thumbnail:hover{
+    background-color: #c898e9;
+}
+
+  @media (max-width: 800px) {
+    .navbar{
+        background-color: #c898e9;
+    }
+  }
